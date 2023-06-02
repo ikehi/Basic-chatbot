@@ -1,2 +1,2 @@
 # Basic-chatbot
-Chatbot with python with trained responses to particular questions
+Chatbot in python with trained responses to particular questions
